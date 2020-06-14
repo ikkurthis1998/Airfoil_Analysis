@@ -12,7 +12,7 @@ Air Code.ipynb is the python 3 Jupyter notebook file, where the source code is a
 
 The code consists of a class and several functions for analysing an airfoil in xfoil program.
 
-# xfoil class: 
+### xfoil class: 
 The xfoil class consists of two major functions: 1. cp_oper 2. polar oper
 
 cp_oper: 
@@ -33,7 +33,7 @@ polar_oper:
            Function: Obtain cl, cd, cm values for given angle of attack and save them to Results folder
            Output: Array of angle of attack, cl, cd, cm
 
-# Important functions:
+### Important functions:
 seperate_airfoil:
             Inputs: x, y coordinates of airfoil
             Function: Seperate the upper and lower coordinates of airfoil
