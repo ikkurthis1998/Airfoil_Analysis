@@ -3,9 +3,12 @@ Analyse any airfoil from UIUC database in xfoil and obtain cp and polar values
 
 The zip file consists of Database folder, Results folder, Xfoil folder, Air Code.ipynb
 
-Database folder consists of all the airfoils in UIUC airfoil data files in .dat or .DAT format
-Results folder consists of all the output files from xfoil
-Xfoil folder consists of xfoil program
+Database folder consists of all the airfoils in UIUC airfoil data files in .dat or .DAT format.
+
+Results folder consists of all the output files from xfoil.
+
+Xfoil folder consists of xfoil program.
+
 Air Code.ipynb is the python 3 Jupyter notebook file, where the source code is available for modification and execution.
 
 ## Source code info
