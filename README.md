@@ -37,5 +37,13 @@ The INPUTS section contains pts, Re, Mach, N_crit, Alpha variables
            N_crit =  Critical boundary layer interaction
 
            Alpha = Angle of attack
+           
+           database_path = path to database folder
+           
+           xfoil_path = path to xfoil folder
+
+           results_path = path to results folder
+
+           code_path = path to jupyter notebook file
 
 If any specific airfoil is to be analysed then it can be entered to foil variable in THE CODE section.
