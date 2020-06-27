@@ -9,15 +9,15 @@ Department of Aerospace Engneering, Amrita Vishwa Vidyapeetham.
 
 Analyse any airfoil from UIUC database in xfoil and obtain cp and polar values
 
-The zip file consists of Database folder, Results folder, Xfoil folder, Airfoil Analysis.ipynb
+The Super_xfoil folder is the python module for finding cp and polar values for different flow parameters
 
 Database folder consists of all the airfoils in UIUC airfoil data files in .dat or .DAT format.
 
-Results folder consists of all the output files from xfoil.
+Create a Results folder, it consists of all the output files from xfoil.
 
 Xfoil folder consists of xfoil program.
 
-Airfoil Analysis.ipynb is the python 3 Jupyter notebook file, where the source code is available for modification and execution.
+Example.ipynb demonstrates some example functions of Super_xfoil
 
 ## Source code info
 
